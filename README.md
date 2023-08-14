@@ -5,8 +5,8 @@
 <p>Note 2 : This project has not any backend code or real database and all products , carts and prices are fake !🤦‍♂️</p>
 <p>Note 3 : This prjocet actualy built with React and tailwind but i have minified this project ! (To avoid using my codes🙂)</p>
 <p>Note 4 : Some images are from direct google links and sometimes does not load succesfuly</p>
-<p>Note 5 : You can use also live server extensions on local host to run this project but before that add this repo on your local device</p>
-<h5>Enter this command cmd for that :</h5>
+<p>Note 5 : You can also use live server extensions on your system local host to run this project but before that add this repo on your local device .</p>
+<h5>Enter this command for that in your cmd system (before that select a folder for that in your system):</h5>
 
 ```
 git clone https://github.com/20Amir01/20Amir01.github.io.git
