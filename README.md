@@ -1,5 +1,6 @@
 <h2>ONLINE SHOP WEBSITE</h2>
 <br/>
+<p>Please read this : (The problem is from dummy json fake api , if any product does not load for you . sorry for that .Maybe i change it in future 🙂)</p>
 <p>Visit this address <a href="https://20amir01.github.io/">https://20amir01.github.io/</a> to see live project on github pages platform . </p>
 <p>Note 1 : I have used dummyJSON fake api for products in store-app and sometimes does not work correctly <br/> (especially in mobile browser!)!🤷‍♂️</p>
 <p>Note 2 : This project has not any backend code or real database and all products , carts and prices are fake !🤦‍♂️</p>
